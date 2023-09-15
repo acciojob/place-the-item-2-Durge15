@@ -1,33 +1,32 @@
 
 /* Your CSS Code here. */
 .holder{
-/* height:500px;
-width:500px; */
-display:flex;
+	display:flex;
 /* align-items:center; */
 /* justify-content:center; */
-	flex:wrap;
+	flex-wrap:wrap;
+	font-size:30px;
 }
 .box3{
-height:200px;
-width:200px;
+height:110px;
+width:110px;
 background-color:green;
 }
 .box1{
-height:200px;
-width:200px;
+height:110px;
+width:110px;
 background-color:red;
 }
 /* .main-div1{
 display:flex;
-align-items:center;
-justify-content:center;
-} */
+align-items:center; 
+justify-content:center; 
+flex-wrap:wrap;
+}  */
 .box2{
-height:200px;
-width:200px;
+height:110px;
+width:110px;
 background-color:blue;
-/* display:flex;
-justify-content:center; */
+
 
 }
